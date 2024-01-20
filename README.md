@@ -8,8 +8,7 @@ Welcome to the Leoon project! This project is a website for an online meat shop,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 This project aims to offer a user-friendly interface for customers to explore and order meat products online. The website incorporates Bootstrap for responsive design and includes various sections such as home, about, and contact.
 
